@@ -1,5 +1,7 @@
 # AbpSample601
 
+This project is only a sample, generate with ABP CLI.
+
 ## Command line
 `abp new AbpSample601 --tiered`
 
